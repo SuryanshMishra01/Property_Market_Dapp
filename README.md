@@ -5,13 +5,15 @@ This Solidity + React decentralized application works as a middleman or broker i
 
 # Description 
 The project consists of 2 major folders:
-### 1) Client
+#### 1) Client
 It is the frontend of our Dapp based on React+Vite app model.
 Client -> src -> here we have 3 main files: 
 1) ItemList.jsx: It contains all the major components and functions (like buyProperty(), handleAddProperty, etc) which are responsible for calling the smart contract functions.
 2) PropertyMarket.jsx: This file fetches the contract ABI and creates the 'contract instance' and exports it.
 3) ethers.jsx: This file gets us the provider, signer and establishes the conection with Metamask Wallet.
-
+#### 2) Contracts
+This folder contains our smart contract 'Property_Market.sol' which has 2 functions addProperty() and buyProperty().
+The struct Property represents the property objects and a mapping named 'properties' is used to map property object with an unique id.
 # Getting Started 
 
 ## Executing Program
