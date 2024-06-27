@@ -16,7 +16,7 @@ This folder contains our smart contract 'Property_Market.sol' which has 2 functi
 The struct Property represents the property objects and a mapping named 'properties' is used to map property object with an unique id.
 # Getting Started 
 
-## Executing Program
+## Executing Project
 To run this project follow these steps:
 1) Git clone this repository in your local setup.
 2) Ensure that all the libraries and dependencies (like nodejs, hardhat, ethersjs, etc.) are installed.
@@ -25,7 +25,7 @@ To run this project follow these steps:
 5) In 3rd terminal run: cd client
    and then run: npm run dev.
 
-# Interacting with Project
+## Interacting with Project
 
 
 
