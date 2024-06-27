@@ -26,14 +26,14 @@ To run this project follow these steps:
    and then run: npm run dev.
 
 ## Interacting with Project
+This is the interface with 2 properties already added and trying to add 1 more.
+![image](https://github.com/SuryanshMishra01/Property_Market_Dapp/assets/116947777/18dae3b8-aad4-45b6-bb4c-bd4cf19465bb)
 
+Confirming the transaction from Metamask Wallet
+![image](https://github.com/SuryanshMishra01/Property_Market_Dapp/assets/116947777/60bb51df-c177-4162-a2e2-6af3e2914c0b)
 
-
-
-
-
-
-
+Now just click on Buy button to purchase any properties in the list and when a property is purchased the Buy button will be disabled 
+![image](https://github.com/SuryanshMishra01/Property_Market_Dapp/assets/116947777/ec58ac5e-d15c-4b85-83da-08c6fee3df1a)
 
 # Author
 Suryansh Mishra @suryanshmishra0704@gmail.com
